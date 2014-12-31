@@ -1,8 +1,7 @@
-/**
- * A TypeScript definition file for the physics engine http://brm.io/matter-js/
- * 
- * Reviewed 
- */
+// Type definitions for Matter physics engine http://brm.io/matter-js/
+// Project: https://github.com/liabru/matter-js
+// Rev 31/12/2014
+
 declare module Matter {
 
     export interface ICollisionFilter {
